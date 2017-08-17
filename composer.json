@@ -1,7 +1,7 @@
 {
-    "name": "mailforge/laravel-chargebee-dude",
+    "name": "mailforge/laravel-chargebee-v2",
     "type": "library",
-    "description": "A Laravel package which provides an easy way to handle billing and subscriptions.",
+    "description": "A Laravel package which provides an easy way to handle billing and subscriptions. Credits goes to TijmenWierenga",
     "keywords": [
         "TijmenWierenga",
         "Chargebee",
